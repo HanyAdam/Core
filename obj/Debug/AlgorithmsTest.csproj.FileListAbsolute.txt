@@ -1,0 +1,6 @@
+D:\Working Directory\Test Working Directory\AlgorithmsTest\AlgorithmsTest\bin\Debug\AlgorithmsTest.exe.config
+D:\Working Directory\Test Working Directory\AlgorithmsTest\AlgorithmsTest\bin\Debug\AlgorithmsTest.exe
+D:\Working Directory\Test Working Directory\AlgorithmsTest\AlgorithmsTest\bin\Debug\AlgorithmsTest.pdb
+D:\Working Directory\Test Working Directory\AlgorithmsTest\AlgorithmsTest\obj\Debug\AlgorithmsTest.csprojResolveAssemblyReference.cache
+D:\Working Directory\Test Working Directory\AlgorithmsTest\AlgorithmsTest\obj\Debug\AlgorithmsTest.exe
+D:\Working Directory\Test Working Directory\AlgorithmsTest\AlgorithmsTest\obj\Debug\AlgorithmsTest.pdb
